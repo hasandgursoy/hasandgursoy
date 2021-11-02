@@ -19,7 +19,7 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasandgursoy&show_icons=true&locale=en&layout=compact" alt="hasandgursoy" /></p>
-<hr>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasandgursoy&show_icons=true&locale=en" alt="hasandgursoy" /></p>
