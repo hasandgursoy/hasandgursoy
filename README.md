@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Dart & Flutter , Python**
 
-- 📫 How to reach me **hasan.d.gursoy@gmail.com**
+- 📫 How to reach me **hasan.d.gursoy@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
