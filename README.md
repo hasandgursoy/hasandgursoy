@@ -3,7 +3,7 @@
 
 ![Rick-and-Morty](https://64.media.tumblr.com/30b83c4043710a3093c4abac6e9e4215/5f53d60f516e748c-cc/s1280x1920/38bbdf92d8e0d1fdc8bf3d4671efb5078b369f85.gifv)
 
-- 🌱 I’m currently learning **Java & Spring**
+- 🌱 I’m currently learning **Java & Spring** 
 
 - 💬 Ask me about **Java & Spring**
 
