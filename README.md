@@ -1,13 +1,13 @@
 
 <h1 align="">Hi 👋, I'm Hasan</h1>
-<h3 align="">I'm Backend Developer (Java & Spring Boot)</h3>
+<h3 align="">I'm Backend Developer (Java & Spring)</h3>
 
 ![Rick-and-Morty](https://64.media.tumblr.com/30b83c4043710a3093c4abac6e9e4215/5f53d60f516e748c-cc/s1280x1920/38bbdf92d8e0d1fdc8bf3d4671efb5078b369f85.gifv)
 
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring **
 
-- 💬 Ask me about **Spring Boot**
+- 💬 Ask me about **Spring **
 
 - 📫 How to reach me **hasan.d.gursoy@gmail.com**
 
