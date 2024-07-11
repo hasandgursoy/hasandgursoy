@@ -3,7 +3,7 @@
 
  <div style="display: flex;">
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhlemsyaDFxdWQ0NHl3aW1rYmptbWs4NnVpYmlvdmd2YWZwOXF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gCPvobhbCxitDmuBkM/giphy.webp" style="margin-right: 10px;">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlqczNhOGhscGwyNWMzaXBrMWo3YmQ5dzJyYmxtcW5ucnUyZ2dqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yMMJB4678mvyq3b4d2/giphy.webp" >
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlqczNhOGhscGwyNWMzaXBrMWo3YmQ5dzJyYmxtcW5ucnUyZ2dqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yMMJB4678mvyq3b4d2/giphy.webp" width="300" >
     </div>
 
 - 🌱 I’m currently learning **.NET**
