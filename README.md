@@ -1,7 +1,7 @@
 <h1 align="">Hi 👋, I'm Hasan</h1> 
 <h3 align="">I'm Backend Developer (C# & .NET)</h3> 
 
-![Rick-and-Morty](https://64.media.tumblr.com/30b83c4043710a3093c4abac6e9e4215/5f53d60f516e748c-cc/s1280x1920/38bbdf92d8e0d1fdc8bf3d4671efb5078b369f85.gifv)
+![Rick-and-Morty](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBrb2ZhMzNzMGdyNHRjMmNkbW1janl6b2YxZDE2azdjNGxucjRsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.webp)
 
 - 🌱 I’m currently learning **.NET**
  
