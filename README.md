@@ -1,7 +1,8 @@
 <h1 align="">Hi 👋, I'm Hasan</h1> 
 <h3 align="">I'm Backend Developer (C# & .NET)</h3> 
 
-![Rick-and-Morty](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhlemsyaDFxdWQ0NHl3aW1rYmptbWs4NnVpYmlvdmd2YWZwOXF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gCPvobhbCxitDmuBkM/giphy.webp)
+![Panda-Samurai](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhlemsyaDFxdWQ0NHl3aW1rYmptbWs4NnVpYmlvdmd2YWZwOXF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gCPvobhbCxitDmuBkM/giphy.webp)
+![Real-Samurai](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlqczNhOGhscGwyNWMzaXBrMWo3YmQ5dzJyYmxtcW5ucnUyZ2dqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yMMJB4678mvyq3b4d2/giphy.webp)
 
 - 🌱 I’m currently learning **.NET**
  
