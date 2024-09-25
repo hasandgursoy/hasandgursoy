@@ -1,4 +1,4 @@
-<h1 align="">Hi 👋, I'm Hasan (Problem Solver)</h1> 
+<h1 align="">Hi, I'm Hasan </h1> 
 <h3 align="">I'm Backend Developer (C# & .NET)</h3> 
 
  <div style="display: flex;">
@@ -6,11 +6,8 @@
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhlemsyaDFxdWQ0NHl3aW1rYmptbWs4NnVpYmlvdmd2YWZwOXF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gCPvobhbCxitDmuBkM/giphy.webp" height="250"  style="margin-right: 10px;">
     </div>
 
-- 🌱 I’m currently working on .NET techs.
 
-- 📫 How to reach me **hasan.d.gursoy@gmail.com**
-
-###
+- 💬 You can ask me about **Dotnet, Docker, Microservices, Azure**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
